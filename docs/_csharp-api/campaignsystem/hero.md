@@ -77,7 +77,7 @@ TODO
  | public            | RandomValueRarelyChanging     | `int`                                                          | ??                                         |       |
  | private           | _father                       | [Hero]()                                                       | Father                                     |       |
  | private           | _mother                       | [Hero]()                                                       | Mother                                     |       |
- | private readonly  | _exSpouses                    | `List<`[Hero]()`>`                                             | see https://github.com/RoGreat/MarryAnyone/tree/main/MarryAnyone for usage |       |
+ | private readonly  | _exSpouses                    | `List<`[Hero]()`>`                                             | List of all previous spouses. Only for encyclopedia and relationship icon. See https://github.com/RoGreat/MarryAnyone/tree/main/MarryAnyone for mod usage |       |
  | public            | ExSpouses                     | [MBReadOnlyList]()`<`[Hero]()`>`                               | Ex. spouses                                |       |
  | private           | _spouse                       | [Hero]()                                                       | Spouse                                     |       |
  | private readonly  | _children                     | `List`[Hero]()`>`                                              | Children                                   |       |
